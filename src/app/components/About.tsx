@@ -1,7 +1,7 @@
 import Image from "next/image";
 import "../style/About.css";
 
-export default function Hero(){
+export default function About(){
     return(
         <div className="about-container">
            <div className="about-box-container">
